@@ -43,12 +43,15 @@ Slicers: Filter by Region
 Business Questions Answered
 
 Which region has the highest sales?
+
 Answer: The West region leads in sales.
 
 Which category yields the highest profit?
+
 Answer: The Technology category has the highest profit margins.
 
 What is the trend of sales over the years?
+
 Answer: Sales have steadily increased year over year, with the highest growth observed in the most recent year.
 
 Contents
